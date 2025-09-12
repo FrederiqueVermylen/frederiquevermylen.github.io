@@ -8,6 +8,7 @@ Daarnaast help ik ook om de studiemethode te verbeteren en een strategie uit te 
 
 Overzicht van de vakken die ik geef:
 |doelgroep|vakken|
+|----------|--------|
 | 1e, 2e graad secundair | alle vakken |
 | 3e graad secundair | alle wetenschapsvakken |
 | 1e, 2e hoger onderwijs | wiskunde |
