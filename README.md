@@ -19,5 +19,5 @@ De eerste sessie is steeds gratis, daarna vraag ik €20 per uur.
 
 ## Contact
 Aarzel niet om mij te contacteren bij verdere vragen!
-mail: frederiquevermylen@gmail.com
+mail: frederiquevermylen@gmail.com, 
 telefoon: +32 477 07 76 76
