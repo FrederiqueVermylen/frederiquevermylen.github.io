@@ -39,7 +39,7 @@ Aarzel niet om mij te contacteren bij verdere vragen!
 <table style="border-collapse: collapse;">
   <tr>
     <td style="width: 50px; height: 50px; padding: 0;">
-      <img src="https://github.com/FrederiqueVermylen/frederiquevermylen.github.io/blob/7dbb2d9a84cb182fa055e9128d41d9783caab77b/profielfoto%20bijgesneden.jpg" 
+      <img src="https://raw.githubusercontent.com/FrederiqueVermylen/frederiquevermylen.github.io/main/profielfoto_bijgesneden.jpg" 
            alt="profielfoto" 
            style="width: 60px; height: 60px; border: 3px solid black; border-radius: 50%; object-fit: cover; display: block;">
     </td>
