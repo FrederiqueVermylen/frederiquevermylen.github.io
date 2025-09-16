@@ -1,4 +1,3 @@
-# Bijlessen Frederique Vermylen
 ## Wie ben ik?
 Ik ben student 3e bachelor ingenieurswetenschappen aan de KU Leuven en woon zelf ook in Leuven. Mijn hoofdrichting is computerwetenschappen en als nevenrichting koos ik voor elektrotechniek, omdat wetenschappen mij altijd sterk hebben geïnteresseerd en vooral computer trekken mijn aandacht. In mijn eerste jaar aan de KUL kreeg ik alle algemene vakken: analyse, algebra, scheikunde, mechanica, ... waardoor ik een uitgebreide basis heb om op terug te vallen en daarna volgden de vakken over programmeren, computerarchitectuur, computerchips, dataverwerking, etc. Het waren stuk voor stuk zeer interessante vakken, maar zonder twijfel ook uitdagend. Daarom wil ik graag andere leerlingen/studenten helpen bij hun studies, omdat een duwtje in de juiste richting dikwijls wonderen doet!
 
