@@ -23,20 +23,13 @@ doelgroep | vakken
 €20 per uur
 
 ## Contact
-Aarzel niet om mij te contacteren bij verdere vragen!  
-
-![Profielfoto](https://raw.githubusercontent.com/FrederiqueVermylen/frederiquevermylen.github.io/main/profielfoto_bijgesneden.jpg){: style="width:60px; height:60px; border:3px solid black; border-radius:50%; object-fit:cover; display:inline-block; vertical-align:middle;"}  
-mail: frederiquevermylen@gmail.com  
-telefoon: +32 477 07 76 76
-
-## Contact
 Aarzel niet om mij te contacteren bij verdere vragen!
 <table style="border-collapse: collapse;">
   <tr>
     <td style="width: 50px; height: 50px; padding: 0;">
       <img src="https://raw.githubusercontent.com/FrederiqueVermylen/frederiquevermylen.github.io/main/profielfoto_bijgesneden.jpg" 
            alt="profielfoto" 
-           style="width: 60px; height: 60px; border: 3px solid black; border-radius: 50%; object-fit: cover; display: block;">
+           style="width: 60px; height: 60px; border: 3px solid black; border-radius: 50%; object-fit: cover; display: inline-block;">
     </td>
     <td style="padding-left: 10px; vertical-align: middle; border: none">
       mail: frederiquevermylen@gmail.com<br>
