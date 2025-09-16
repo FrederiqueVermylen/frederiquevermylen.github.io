@@ -1,0 +1,9 @@
+/* Dit is geschreven in CSS.
+Dit zorgt ervoor dat je titel horizontaal uitgerekt blijft en niet automatisch onder elkaar wordt gezet. */
+
+.site-title {
+    display: inline-block;      /* laat de woorden naast elkaar staan */
+    width: auto;                /* breder kader indien nodig */
+    margin-left: 0;             /* naar links schuiven */
+    white-space: nowrap;        /* voorkomt dat woorden op aparte regels komen */
+}
