@@ -18,6 +18,7 @@ Overzicht van de vakken die ik geef:
 De eerste sessie is steeds gratis, daarna vraag ik €20 per uur.
 
 ## Contact
+![image alt tekst](https://github.com/FrederiqueVermylen/frederiquevermylen.github.io/blob/7dbb2d9a84cb182fa055e9128d41d9783caab77b/profielfoto%20bijgesneden.jpg)
 Aarzel niet om mij te contacteren bij verdere vragen!
 mail: frederiquevermylen@gmail.com, 
 telefoon: +32 477 07 76 76
