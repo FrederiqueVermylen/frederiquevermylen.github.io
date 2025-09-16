@@ -1,3 +1,11 @@
+In feite is alles in de README overbodig als je een index.md gebruikt voor je website.
+De README blijft alleen relevant voor de GitHub-repository zelf, bijvoorbeeld als iemand je repo bekijkt op GitHub. Voor de website wordt alles in index.md gebruikt en wordt de README niet getoond.
+
+Je kunt de README dus:
+Verwijderen als je hem niet nodig hebt, of
+Leegmaken of een korte beschrijving van de repo toevoegen zodat mensen op GitHub nog steeds context zien.
+
+# Bijlessen Frederique Vermylen
 ## Wie ben ik?
 Ik ben student 3e bachelor ingenieurswetenschappen aan de KU Leuven en woon zelf ook in Leuven. Mijn hoofdrichting is computerwetenschappen en als nevenrichting koos ik voor elektrotechniek, omdat wetenschappen mij altijd sterk hebben geïnteresseerd en vooral computer trekken mijn aandacht. In mijn eerste jaar aan de KUL kreeg ik alle algemene vakken: analyse, algebra, scheikunde, mechanica, ... waardoor ik een uitgebreide basis heb om op terug te vallen en daarna volgden de vakken over programmeren, computerarchitectuur, computerchips, dataverwerking, etc. Het waren stuk voor stuk zeer interessante vakken, maar zonder twijfel ook uitdagend. Daarom wil ik graag andere leerlingen/studenten helpen bij hun studies, omdat een duwtje in de juiste richting dikwijls wonderen doet!
 
