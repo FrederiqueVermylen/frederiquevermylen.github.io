@@ -1,3 +1,5 @@
+
+<!--
 ---
 layout: default
 title: Bijlessen Frederique Vermylen
@@ -36,3 +38,4 @@ Aarzel niet om mij te contacteren bij verdere vragen!
     </td>
   </tr>
 </table>
+-->
