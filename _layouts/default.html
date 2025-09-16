@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <h1>{{ page.title }}</h1>
+    <p>{{ page.description }}</p>
+  </header>
+  <main class="site-content">
+    {{ content }}
+  </main>
+</body>
+</html>
