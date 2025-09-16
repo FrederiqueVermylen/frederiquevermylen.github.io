@@ -1,3 +1,17 @@
-theme: jekyll-theme-minimal
+# Algemene site-info
 title: Bijlessen Frederique Vermylen
 description: regio Leuven
+url: "https://frederiquevermylen.github.io"
+baseurl: ""                           # meestal leeg bij user-pages
+
+# Thema
+theme: jekyll-theme-minimal
+
+# Autorisatie/links
+author: "Frederique Vermylen"
+email: "frederiquevermylen@gmail.com"
+
+# Sociale links (optioneel)
+twitter: ""
+github: ""  # lege string verwijdert de link
+linkedin: ""
