@@ -7,18 +7,62 @@ Ik speel in op de leerstijl van de leerling door de leerstof in de juiste vorm (
 Daarnaast help ik ook om de studiemethode te verbeteren en een strategie uit te werken voor de aanpak van toetsen, examens, een weekplanning, ... etc.
 
 Overzicht van de vakken die ik geef:
-|doelgroep|vakken|
-|----------|--------|
-| 1e, 2e graad secundair | alle vakken |
-| 3e graad secundair | alle wetenschapsvakken |
-| 1e, 2e hoger onderwijs | wiskunde |
-| 1e, 2e bach ingenieurswetenschappen | alle algemene vakken 
+<table class="tb">
+   <tr> 
+      <th>doelgroep</th>
+      <th>vakken</th>
+   </tr>
+   <tr> 
+      <td>1e, 2e graad secundair</td>
+      <td>alle vakken</td>
+   </tr>
+   <tr> 
+      <td>3e graad secundair</td>
+      <td>alle wetenschapsvakken</td>
+   </tr>
+  </tr>
+   <tr> 
+      <td>1e, 2e hoger onderwijs</td>
+      <td>wiskunde</td>
+   </tr>
+  </tr>
+   <tr> 
+      <td>1e, 2e bach ingenieurswetenschappen</td>
+      <td>alle algemene vakken</td>
+   </tr>
+</table>
 
 ## Prijs
-De eerste sessie is steeds gratis, daarna vraag ik €20 per uur.
+€20 per uur
 
 ## Contact
-![image alt tekst](https://github.com/FrederiqueVermylen/frederiquevermylen.github.io/blob/7dbb2d9a84cb182fa055e9128d41d9783caab77b/profielfoto%20bijgesneden.jpg)
 Aarzel niet om mij te contacteren bij verdere vragen!
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="width: 50px; height: 50px; padding: 0;">
+      <img src="https://github.com/FrederiqueVermylen/frederiquevermylen.github.io/blob/7dbb2d9a84cb182fa055e9128d41d9783caab77b/profielfoto%20bijgesneden.jpg" 
+           alt="profielfoto" 
+           style="width: 60px; height: 60px; border: 3px solid black; border-radius: 50%; object-fit: cover; display: block;">
+    </td>
+    <td style="padding-left: 10px; vertical-align: middle; border: none">
+      mail: frederiquevermylen@gmail.com<br>
+      telefoon: +32 477 07 76 76
+    </td>
+  </tr>
+</table>
+
+
+
+
+<!-- DIT IS CODE IN COMMENTAAR:
+1) afbeelding invoegen:
+<img src="https://github.com/FrederiqueVermylen/frederiquevermylen.github.io/blob/7dbb2d9a84cb182fa055e9128d41d9783caab77b/profielfoto%20bijgesneden.jpg" 
+     alt="image alt tekst" 
+     width="150" 
+     style="border: 3px solid black; border-radius: 50%;">
 mail: frederiquevermylen@gmail.com, 
 telefoon: +32 477 07 76 76
+
+
+Ik ben student 3e bachelor ingenieurswetenschappen aan de KU Leuven en woon zelf ook in Leuven. Mijn hoofdrichting is computerwetenschappen en als nevenrichting koos ik voor elektrotechniek, omdat wetenschappen mij altijd sterk hebben geïnteresseerd en vooral computer trekken mijn aandacht. In mijn eerste jaar aan de KUL kreeg ik alle algemene vakken: analyse, algebra, scheikunde, mechanica, ... waardoor ik een uitgebreide basis heb om op terug te vallen en daarna volgden de vakken over programmeren, computerarchitectuur, computerchips, dataverwerking, etc. Het waren stuk voor stuk zeer interessante vakken, maar zonder twijfel ook uitdagend. Daarom wil ik graag andere leerlingen/studenten helpen bij hun studies, omdat een duwtje in de juiste richting dikwijls wonderen doet!
+-->
