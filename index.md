@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: default
 title: Bijlessen Frederique Vermylen
 ---
 
@@ -29,7 +29,7 @@ Aarzel niet om mij te contacteren bij verdere vragen!
     <td style="width: 50px; height: 50px; padding: 0;">
       <img src="https://raw.githubusercontent.com/FrederiqueVermylen/frederiquevermylen.github.io/main/profielfoto_bijgesneden.jpg" 
            alt="profielfoto" 
-           style="width: 60px; height: 60px; border: none; object-fit: contain; display: inline-block;">
+           style="width: 60px; height: 60px; border: none; border-radius: 50%; object-fit: contain; display: inline-block;">
     </td>
     <td style="padding-left: 10px; vertical-align: middle; border: none">
       mail: frederiquevermylen@gmail.com<br>
